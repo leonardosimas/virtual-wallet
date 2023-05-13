@@ -132,7 +132,7 @@ const Home: NextPage = () => {
                   width: "100%",
                 },
               }}
-              onPress={() => push("/create-wallet")}
+              onPress={() => push("/generate-password")}
             >
               Criar senha segura
             </Button>
