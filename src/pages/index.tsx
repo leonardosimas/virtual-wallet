@@ -15,7 +15,7 @@ const Home: NextPage = () => {
       direction={"row"}
       css={{
         background: "#E4E4DC",
-        height: "100vh",
+        height: "100%",
       }}
     >
       <Row

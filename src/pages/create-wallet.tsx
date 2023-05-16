@@ -1,9 +1,9 @@
 import type { NextPage } from "next";
 import {
   Button,
-  Card,
   Col,
   Container,
+  Divider,
   Grid,
   Row,
   Spacer,
@@ -92,6 +92,14 @@ const Home: NextPage = () => {
           >
             <b>Mnemônico</b> - Frase Secreta
           </Text>
+          <Divider
+            css={{
+              width: "80%",
+              marginTop: "-1rem",
+              marginBottom: "1rem",
+              color: "$virtualWalletOxley",
+            }}
+          />
           <Text
             css={{
               marginBottom: "1rem",
