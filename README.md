@@ -13,6 +13,7 @@
 
 - Gerador de um mnemônico de 12 palavras, para criação de carteiras virtuais na rede Ethereum.
 - Gerador de senhas seguras, com opções de 6 a 2048 combinações, inclusão de símbolos, números, maiúsculas e minúsculas.
+- Botão para copiar a senha gerada inserido e funcional.
 
 
 
