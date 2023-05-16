@@ -1,0 +1,13 @@
+.container {
+  min-height: 100%;
+  /* background-color: $virtualWalletSnowDrift; - Não consegui passar a variável pelo módulo */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+
+
